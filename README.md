@@ -2,7 +2,7 @@
 
 This repository contains a machine learning project for predicting survival of passengers who travelled on Titanic Ship in 1912.
 
-# Problem Description-
+# Problem Description
 This project highlights my approach to the introductory machine learning competition on Kaggle website- Titanic: Machine Learning from Disaster.
 
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
